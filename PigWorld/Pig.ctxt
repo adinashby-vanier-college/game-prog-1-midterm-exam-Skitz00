@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pig
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ When\ Run\ or\ Act\ is\ pressed\ these\ methods\ will\ be\ ready.\r\n
+comment2.params=
+comment2.target=void\ moveAndTurn()
+comment2.text=\r\n\ The\ moving\ and\ turning\ method\ for\ the\ pig.\r\n
+comment3.params=
+comment3.target=void\ eat()
+comment3.text=\r\n\ The\ eating\ method\ for\ the\ pig.\r\n
+comment4.params=
+comment4.target=boolean\ isGameWon()
+comment4.text=\r\n\ Let's\ the\ world\ know\ if\ there\ are\ burgers\ left\ on\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ transitionToGameWonWorld()
+comment5.text=\r\n\ Changes\ the\ world\ to\ the\ GameWonWorld\ and\ plays\ a\ sound.\r\n
+numComments=6

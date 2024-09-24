@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Snake()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ When\ Run\ or\ Act\ is\ pressed\ these\ methods\ will\ be\ ready.\r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=\r\n\ The\ moving\ method\ for\ the\ snake.\r\n
+comment4.params=
+comment4.target=void\ eat()
+comment4.text=\r\n\ The\ eating\ method\ for\ the\ snake\r\n
+comment5.params=
+comment5.target=boolean\ isGameLost()
+comment5.text=\r\n\ Let's\ the\ world\ know\ if\ there\ is\ a\ pig\ left.\r\n
+comment6.params=
+comment6.target=void\ transitionToGameOverWorld()
+comment6.text=\r\n\ Sets\ the\ world\ to\ the\ GameOverWorld\ and\ plays\ a\ sound.\r\n
+numComments=7
